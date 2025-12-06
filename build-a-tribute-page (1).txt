@@ -1,0 +1,44 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<title id ="title">Tribute Page</title>
+</head>
+<body>
+  <main id="main">
+<figure id="img-div">
+  <img id="image"
+  src="https://img.freepik.com/premium-photo/portrait-male-student-standing-outside-front-college-buildingcreated-with-generative-ai-technology_132358-18634.jpg">
+   <figure>
+  <div id="img-caption"> Berry Jay when he was at Oxford University</div>
+    <section id ="tribute-info">
+      Berry Jay, a gifted neuroscience PhD student at St John’s College, Oxford. Cal was known for their brilliance, compassion, and advocacy, but tragically passed away in October 2024.</section>
+      </figure>
+      <a id="tribute-link" href="http://www.youtube.com/c/cmsuniversal" target="_blank">Link</a>
+  </main>
+      <link rel="stylesheet" href="styles.css">
+  </body>
+  <html>
+
+** end of index.html **
+
+** start of styles.css **
+
+#image{
+  max-width:100%;
+  height:auto;
+  margin:auto;
+}
+body{
+  text-align:center;
+}
+img{
+  display:block;
+}
+#img-div{
+  text-align:center;
+}
+
+** end of styles.css **
+
